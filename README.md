@@ -77,30 +77,6 @@ Our GAP analysis revealed key advantages over competitors:
   <img src="https://via.placeholder.com/200x400/5865F2/FFFFFF?text=Tracker" width="200" alt="Tracker Screen">
 </div>
 
-## 📥 Installation
-
-```bash
-# Clone repository
-git clone https://github.com/yourusername/RobustHQ.git
-
-# Backend setup
-cd backend
-mvn clean install
-mvn spring-boot:run
-
-# Frontend setup (React Native)
-cd ../mobile
-npm install
-npm start
-```
-
-## 🤝 Meet the Team
-
-| Member | Role | Contribution |
-|--------|------|--------------|
-| H.T. Perera | Team Lead | Core Architecture |
-| V. Wijewardana | Developer | UI/UX Design |
-| G.M.M. Silva | Researcher | Mental Health Expertise |
 
 ## 🌐 Future Roadmap
 
