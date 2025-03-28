@@ -77,6 +77,7 @@ Our GAP analysis revealed key advantages over competitors:
   <img src="https://via.placeholder.com/200x400/5865F2/FFFFFF?text=Tracker" width="200" alt="Tracker Screen">
 </div>
 
+<div align="center"> <table> <tr> <td align="center"> <img src="Screenshot (153).png" width="200" alt="Language Selection"> <br><em>Language Selection Screen</em> </td> <td align="center"> <img src="https://via.placeholder.com/200x400/5865F2/FFFFFF?text=Login" width="200" alt="Login Screen"> <br><em>User Login</em> </td> <td align="center"> <img src="https://via.placeholder.com/200x400/5865F2/FFFFFF?text=Therapy" width="200" alt="Therapy Screen"> <br><em>Therapy Options</em> </td> </tr> <tr> <td align="center"> <img src="https://via.placeholder.com/200x400/5865F2/FFFFFF?text=Tracker" width="200" alt="Tracker Screen"> <br><em>Mood Tracker</em> </td> <td align="center"> <img src="https://via.placeholder.com/200x400/5865F2/FFFFFF?text=Support" width="200" alt="Support Screen"> <br><em>Lethal Support</em> </td> <td align="center"> <img src="https://via.placeholder.com/200x400/5865F2/FFFFFF?text=Challenges" width="200" alt="Challenges Screen"> <br><em>Daily Challenges</em> </td> </tr> </table> </div>
 
 ## 🌐 Future Roadmap
 
