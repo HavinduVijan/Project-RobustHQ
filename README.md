@@ -71,27 +71,21 @@ Our GAP analysis revealed key advantages over competitors:
 
 ## 🧩 Prototype Screenshots
 
-<div align="center">
-  <img src="" width="200" alt="Login Screen">
-  <img src="https://via.placeholder.com/200x400/5865F2/FFFFFF?text=Therapy" width="200" alt="Therapy Screen">
-  <img src="https://via.placeholder.com/200x400/5865F2/FFFFFF?text=Tracker" width="200" alt="Tracker Screen">
-</div>
-
 <div align="center"> 
   <table> 
     <tr> 
       <td align="center"> 
         <img src="LanSelect.png" width="200" alt="Language Selection"> <br><em>Language Selection Screen</em> </td> 
       <td align="center">
-        <img src="Login.png" width="200" alt="Language Selection"> <br><em>Language Selection Screen</em> </td> 
+        <img src="Login.png" width="200" alt="Language Selection"> <br><em>Login Screen</em> </td> 
       <td align="center"> 
-        <img src="Home.png" width="200" alt="Language Selection"> <br><em>Language Selection Screen</em> </td> 
+        <img src="Home.png" width="200" alt="Language Selection"> <br><em>Home Screen</em> </td> 
       <td align="center">
-        <img src="Counselling.png" width="200" alt="Language Selection"> <br><em>Language Selection Screen</em> </td> 
+        <img src="Counselling.png" width="200" alt="Language Selection"> <br><em>Counselling Screen</em> </td> 
       <td align="center"> 
-        <img src="DoctorProfile.png" width="200" alt="Language Selection"> <br><em>Language Selection Screen</em> </td> 
+        <img src="DoctorProfile.png" width="200" alt="Language Selection"> <br><em>Doctor Profile Screen</em> </td> 
       <td align="center">
-        <img src="LeathalSupport.png" width="200" alt="Language Selection"> <br><em>Language Selection Screen</em> </td> 
+        <img src="LeathalSupport.png" width="200" alt="Language Selection"> <br><em>Lethal Support Screen</em> </td> 
     </tr> 
   </table> 
 </div>
