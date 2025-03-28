@@ -72,7 +72,7 @@ Our GAP analysis revealed key advantages over competitors:
 ## 🧩 Prototype Screenshots
 
 <div align="center">
-  <img src="https://via.placeholder.com/200x400/5865F2/FFFFFF?text=Login" width="200" alt="Login Screen">
+  <img src="" width="200" alt="Login Screen">
   <img src="https://via.placeholder.com/200x400/5865F2/FFFFFF?text=Therapy" width="200" alt="Therapy Screen">
   <img src="https://via.placeholder.com/200x400/5865F2/FFFFFF?text=Tracker" width="200" alt="Tracker Screen">
 </div>
